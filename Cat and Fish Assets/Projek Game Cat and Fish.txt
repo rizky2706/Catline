@@ -1,0 +1,48 @@
+Game Cat and Fish adalah game sederhana dan singkat yang dibuat oleh saya dan tim saya catline dengan 
+menggunakan Rpg Maker MV. Bercerita tentang anak kucing kelaparan yang sedang mencari
+ikan untuk dimakan. 
+
+Untuk saat ini, game hanya memiliki 5 level dan dapat diselesaikan dalam 
+kurang lebih waktu 1 menit. Mekanika permainan cukup sederhana dimana
+pemain akan mengendalikan si kucing dan harus memindahkan kotak-kotak 
+kayu yang menghalangi, agar si kucing dapat menemukan peti merah berisi
+ikan.
+
+link: https://rizky2706.itch.io/cat-and-fish-demo
+
+Game ini masih dalam tahap progress dan untuk ke depannya akan ditambah
+beberapa hal, sebagai berikut :
+- Penambahan level 6,7,8,9, dan 10.
+- Saat mencapai level 5 akan mulai terjadi glitch dan mengubah nuansa lucu
+dalam game berubah menjadi seram atau horror.
+
+Untuk itu, ada beberapa hal yang dibutuhkan dalam progress diantaranya:
+- BGM
+- Ilustrasi/Picture
+- Naskah Cerita
+
+Karakter:
+- Grey [Pemain]
+- Bakeneko [Entitas Jahat]
+
+Plot Cerita :
+Suatu hari seorang gadis kecil memungut anak kucing di taman. 
+Sesampainya di rumah, Gadis itu bermain bersama Grey dengan riang gembira. 
+Karena asik bermain, tak terasa hari sudah malam dan sang gadis yang sudah mengantuk, akhirnya tertidur lelap bersama Grey di sampingnya.
+
+Pemandangan ini akan terasa indah apabila Grey benar-benar seekor anak kucing biasa.
+Namun sial bagi sang gadis tertidur yang tidak mengetahui bahwa sebenarnya anak kucing yang dipungutnya dari taman adalah yokai kucing bernama Bakeneko. 
+Bakeneko adalah yokai berbahaya yang suka bermain dan memakan jiwa majikannya.
+
+Dengan menggunakan kekuatannya, Bakeneko mengubah jiwa sang gadis menjadi anak kucing dan menjebaknya ke dalam dunia buatannya.
+Agar terbebas dari dunia tersebut, jiwa sang gadis harus memakan ikan yang terdapat di peti merah yang totalnya ada 9 buah.
+Saat jiwa sang gadis sudah mendapatkan setengah dari jumlah total ikan, bakeneko akan mulai muncul dengan wujud menyerupai majikannya. 
+Dan akan terus menghalangi jiwa sang gadis agar tidak terbebas dari dunia tersebut.
+
+Mekanik permainan:
+- Total level ada 10.
+- Untuk Lv1 s/d Lv4, minigame berupa puzzle dimana pemain diharuskan memindahkan kotak-kotak kayu yang menghalangi dan menemukan peti merah berisi ikan.
+- Untuk Lv5 s/d Lv9, minigame tetap sama namun ada penambahan peti berisi beracun dan Bakeneko yang mulai muncul untuk menghalangi.
+- Lv10 adalah level terakhir yang harus dilewati pemain untuk mendapatkan ending.
+- Minigame Lv10 adalh mencari rute aman menuju pintu keluar, dimana jika salah memilih rute, bakeneko akan muncul dan menyerang.
+- Pemain diberikan 9 kesempatan atau nyawa, apabila terkena serangan nyawa pemain akan berkurang satu dan auto kembali ke titik masuk Lv10.
