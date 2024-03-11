@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"Main Character","classId":5,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"main_character","traits":[],"initialLevel":1,"maxLevel":99,"name":"Nishizaki Akito","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Main Character","classId":5,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"main_character","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kitahara Fuyuki","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":3,"characterName":"Main Character","classId":5,"equips":[3,0,2,3,4],"faceIndex":3,"faceName":"main_character","traits":[],"initialLevel":1,"maxLevel":99,"name":"Minami Natsumi","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":2,"characterName":"Main Character","classId":5,"equips":[4,0,2,3,4],"faceIndex":2,"faceName":"main_character","traits":[],"initialLevel":1,"maxLevel":99,"name":"Higashida haruka","nickname":"","note":"","profile":""}
+]
