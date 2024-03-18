@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"list":[{"code":121,"indent":0,"parameters":[1,1,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Lightstar","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":231,"indent":0,"parameters":[1,"Jimat Api",1,0,330,300,0,0,255,0]},{"code":232,"indent":0,"parameters":[1,0,1,0,330,300,100,100,255,0,60,true]},{"code":232,"indent":0,"parameters":[1,0,1,0,330,300,0,0,255,0,60,true]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"Jimat Api","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":231,"indent":0,"parameters":[2,"Jimat Air",1,0,330,300,0,0,255,0]},{"code":232,"indent":0,"parameters":[2,0,1,0,330,300,100,100,255,0,60,true]},{"code":232,"indent":0,"parameters":[2,0,1,0,330,300,0,0,255,0,60,true]},{"code":235,"indent":0,"parameters":[2]},{"code":0,"indent":0,"parameters":[]}],"name":"Jimat Air","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":231,"indent":0,"parameters":[3,"Jimat Angin",1,0,330,300,0,0,255,0]},{"code":232,"indent":0,"parameters":[3,0,1,0,330,300,100,100,255,0,60,true]},{"code":232,"indent":0,"parameters":[3,0,1,0,330,300,0,0,255,0,60,true]},{"code":235,"indent":0,"parameters":[3]},{"code":0,"indent":0,"parameters":[]}],"name":"Jimat Angin","switchId":1,"trigger":0},
+{"id":5,"list":[{"code":231,"indent":0,"parameters":[4,"Jimat Tanah",1,0,330,300,0,0,255,0]},{"code":232,"indent":0,"parameters":[4,0,1,0,330,300,100,100,255,0,60,true]},{"code":232,"indent":0,"parameters":[4,0,1,0,330,300,0,0,255,0,60,true]},{"code":235,"indent":0,"parameters":[4]},{"code":0,"indent":0,"parameters":[]}],"name":"Jimat Tanah","switchId":1,"trigger":0}
+]
